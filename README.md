@@ -1,6 +1,8 @@
-demo  SNHU _CS_405_Secure coding
-C/C++ Emerging System Architectures & Technologies Portfolio
-Overview
+# SNHU _CS_405_Secure coding
+## C/C++ Emerging System Architectures & Technologies Portfolio
+
+# Overview
+
 This portfolio shows various projects and implementations using C/C++ that explore and demonstrate modern system architectures and emerging technologies. The focus is on efficient, scalable, and maintainable solutions leveraging contemporary design principles and best practices.
 ________________________________________
 Key Highlights
